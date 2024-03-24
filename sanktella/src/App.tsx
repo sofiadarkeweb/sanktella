@@ -6,7 +6,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      {/* <h1>Sanktella</h1> */}
+      <h1>Sanktella</h1>
       <p className="texter">texter</p>
       <span className="forum">forum</span>
       <span className="merch">merch</span>
